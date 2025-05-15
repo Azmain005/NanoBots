@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OpenGL
+*.dll
+OpenGL.zip
+
+# Virtual Environment
+venv/
+ENV/
+
+# Game specific
+Game File/
+*.exe
+
+# System specific
+.DS_Store
+Thumbs.db
